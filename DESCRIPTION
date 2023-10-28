@@ -1,11 +1,10 @@
 Package: funner
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Only some funny functions
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Alvaro Diez <alvzotefui@gmail.com>
+Maintainer: Alvaro Diez <alvzotefui@gmail.com>
+Description: Es solo un paquete en el que iré guardando las funciones divertidas que se me vayan ocurriendo.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
